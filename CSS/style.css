@@ -61,7 +61,7 @@ section {
 .bloc__eth {
     display: flex;
     font-size: 12px;
-
+    width: 110px;
 }
 
 .bloc__eth img {
